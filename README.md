@@ -1,4 +1,5 @@
 ﻿# Load-Balancer
+ ## Installation
  ### Creating the image for the app
 ```
 docker build -t node-app .
